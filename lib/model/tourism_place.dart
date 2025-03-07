@@ -64,7 +64,7 @@ var tourismPlaceList = [
     openTime: '09:00 - 18:00',
     ticketPrice: 'Free Entry',
     imageGallery: [
-      'images/sampoerna.jpg',
+      'images/sampoerna.jpeg',
       'images/sampoerna_1.jpg',
       'images/sampoerna_2.jpeg',
     ],
@@ -95,6 +95,6 @@ var tourismPlaceList = [
     openDays: 'Open Everyday',
     openTime: '24 Hours',
     ticketPrice: 'Free Entry',
-    imageGallery: ['images/sby.jpg', 'images/sby_1.jpg', 'images/sby_2.jpg'],
+    imageGallery: ['images/sby.jpeg', 'images/sby_1.jpg', 'images/sby_2.jpg'],
   ),
 ];
